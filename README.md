@@ -51,6 +51,8 @@ Prediction process for sst-2 task: 100%|██████████| 5/5 [00:
 
 [EVAL] 'sst-2' ==> 0.8 
 ```
+## Kaggle Notebook
+Kaggle provides free computing resources, including two NVIDIA T4 GPU instances, to help users run their experiments. Thus, if you do not have sufficient GPU resources to run on our work your own machine, you can reproduce and test it using this Kaggle notebook: \href{https://www.kaggle.com/code/furelteguimene/llm-merging-latest}{\textbf{JIONE Kaggle Notebook}}.
 
 <!-- ## Getting started
 
